@@ -17,9 +17,7 @@ class LaunchReview {
       'android_id': androidAppId,
       'ios_id': iOSAppId,
       'write_review': writeReview,
-      'is_ios_beta': isiOSBeta,
-      'toast_message': toastMessage,
-      'show_toast': showToast
+      'is_ios_beta': isiOSBeta
     });
   }
 }
